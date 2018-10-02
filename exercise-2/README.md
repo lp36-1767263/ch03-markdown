@@ -8,4 +8,8 @@ In the space below, make a three column table of the current courses
 you are taking, with separate columns for course number (in **bold**),
 course title (in _italics_), and instructor.
 
-See `complete` branch for answers.
+| Course Number | Course Title	| Instructor |
+| ------------- |  ------------- | ------------- |
+| **19933**| _PHIL 100_	| Marshall, Colin Robert |
+| **16410**| _INFO 201_	| Toomet, Ott S. |
+| **16417**| _INFO 270_	| West, Jevin D |

@@ -9,4 +9,7 @@ and provide a link to a website that provides additional information
 about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
-See `complete` branch for an example.
+
+>If it is on the internet then it must be true, and you can't question it. Abraham Lincoln
+
+Accessed from the [Intellectual Takeout](https://www.intellectualtakeout.org/article/former-cia-boss-john-brennan-tweets-fake-lincoln-quote-wont-take-it-down).

@@ -16,3 +16,18 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# cd
+The `cd` command can be used to navigate directories. For example:
+
+```
+cd downloads/college/assignments
+```
+
+Here's some more information about the `cd` command:
+
+- It can be used to move through multiple levels at once e.g. `cd users/tommy/pictures/2018`
+- To move up a level, use `cd ..`
+- To change drives, type drive letter followed by :, e.g. `d:`
+
+See `complete` branch for answers.
